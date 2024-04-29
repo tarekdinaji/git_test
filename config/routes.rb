@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  resoureces :bites
+  resources :bites
   root "bites#index"
 end
