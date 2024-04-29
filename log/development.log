@@ -1,0 +1,4 @@
+  [1m[35m (367.6ms)[0m  [1m[35mCREATE DATABASE "git_test_development" ENCODING = 'unicode'[0m
+  [1m[35m (149.0ms)[0m  [1m[35mCREATE DATABASE "git_test_test" ENCODING = 'unicode'[0m
+  [1m[35m (3.4ms)[0m  [1m[35mCREATE DATABASE "git_test_development" ENCODING = 'unicode'[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE DATABASE "git_test_test" ENCODING = 'unicode'[0m

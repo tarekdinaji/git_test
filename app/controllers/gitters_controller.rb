@@ -1,0 +1,3 @@
+class GittersController < ApplicationController
+  
+end
